@@ -1,0 +1,12 @@
+[submodule "third_party/pybind11"]
+	path = third_party/pybind11
+	url = https://github.com/pybind/pybind11
+[submodule "third_party/streamDM/spdlog"]
+	path = third_party/streamDM/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "third_party/scikit-multiflow"]
+	path = third_party/scikit-multiflow
+	url = https://github.com/ika-day-care/scikit-multiflow
+[submodule "third_party/denstream"]
+	path = third_party/denstream
+	url = https://github.com/ingako/denstream
